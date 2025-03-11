@@ -7,21 +7,21 @@
 ## JMeter Test Plan Result Screenshots (GUI, Pre-Profiling)
 
 ### For endpoint /all-student-name:
-![](https://drive.google.com/file/d/1ahKV9_Noy1OsvokOPqHzMFY-ssFXEzID/view?usp=sharing)
-![](https://drive.google.com/file/d/1shBlRXGKAoNUvwDkm6NVy6Z_0xgjNo36/view?usp=sharing)
-![](https://drive.google.com/file/d/1gzkBKlsVYzb9CWd6JWnrmrWyzhr_cx70/view?usp=sharing)
-![](https://drive.google.com/file/d/1TMyZKPVZSH18Aw0Ny98YA6BCKgKAnq66/view?usp=sharing)
+![](images/Module 5/test_plan_2_res1a.png)
+![](images/Module 5/test_plan_2_res2.png)
+![](images/Module 5/test_plan_2_res3.png)
+![](images/Module 5/test_plan_2_res4.png)
 
 ### For endpoint /highest-gpa:
-![](https://drive.google.com/file/d/1NnOakT2RbsY3K4mfYyxaLhx19xF8Jzo5/view?usp=sharing)
-![](https://drive.google.com/file/d/1T3BuCRhYS_1bCmGQgqCcsAsModF_1AGn/view?usp=sharing)
-![](https://drive.google.com/file/d/1yjHjLQcixjy3Uc9apfkPPMTXq8XGq5Xa/view?usp=sharing)
-![](https://drive.google.com/file/d/1GnL_OAVEyYiNXrpDhY_SVWUQhMKfnZm8/view?usp=sharing)
+![](images/Module 5/test_plan_3_res1a.png)
+![](images/Module 5/test_plan_3_res2.png)
+![](images/Module 5/test_plan_3_res3.png)
+![](images/Module 5/test_plan_3_res4.png)
 
 ## JMeter Test Plan Result Screenshots (CMD, Pre-Profiling)
 
 1. For endpoint /all-student-name:
-![](https://drive.google.com/file/d/12fAH8X75bLehMSB2rDoSEwVqIix3P8t4/view?usp=sharing)
+![](images/Module 5/test_results_2.png)
 
 2. For endpoint /highest-gpa:
-![](https://drive.google.com/file/d/1iJzsVBGW5GBWkTmtxzHgxg7De1NJTC5y/view?usp=sharing)
+![](images/Module 5/test_results_3.png)
