@@ -20,8 +20,8 @@
 
 ## JMeter Test Plan Result Screenshots (CMD, Pre-Profiling)
 
-1. For endpoint /all-student-name:
+### For endpoint /all-student-name:
 ![](https://github.com/JanssenBenedict/exercise-profiling/blob/main/images/Module%205/test_results_2.png)
 
-2. For endpoint /highest-gpa:
+### For endpoint /highest-gpa:
 ![](https://github.com/JanssenBenedict/exercise-profiling/blob/main/images/Module%205/test_results_3.png)
