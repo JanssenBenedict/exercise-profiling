@@ -17,3 +17,11 @@
 ![](https://drive.google.com/file/d/1T3BuCRhYS_1bCmGQgqCcsAsModF_1AGn/view?usp=sharing)
 ![](https://drive.google.com/file/d/1yjHjLQcixjy3Uc9apfkPPMTXq8XGq5Xa/view?usp=sharing)
 ![](https://drive.google.com/file/d/1GnL_OAVEyYiNXrpDhY_SVWUQhMKfnZm8/view?usp=sharing)
+
+## JMeter Test Plan Result Screenshots (CMD, Pre-Profiling)
+
+1. For endpoint /all-student-name:
+![](https://drive.google.com/file/d/12fAH8X75bLehMSB2rDoSEwVqIix3P8t4/view?usp=sharing)
+
+2. For endpoint /highest-gpa:
+![](https://drive.google.com/file/d/1iJzsVBGW5GBWkTmtxzHgxg7De1NJTC5y/view?usp=sharing)
