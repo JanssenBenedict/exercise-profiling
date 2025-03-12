@@ -6,7 +6,6 @@
 # Module 5 - Java Profiling
 
 ## JMeter Test Plan Result Screenshots (GUI, Pre-Profiling)
-(Each test had been run twice, that is why it appears as if there are twice as many results as there should be. Apologies for the confusion)
 
 ### For endpoint /all-student-name:
 ![](https://github.com/JanssenBenedict/exercise-profiling/blob/main/images/Module%205/test_plan_2_res1a.png)
@@ -30,7 +29,6 @@
 
 
 ## JMeter Test Plan Result Screenshots (GUI, Post-Profiling)
-(Each test had been run once)
 
 ### For endpoint /all-student-name:
 ![](https://github.com/JanssenBenedict/exercise-profiling/blob/main/images/Module%205/test_plan_2_res1a_after_profiling.png)
@@ -55,8 +53,8 @@
 
 ## JMeter Measurement Comparison (Pre-Profiling & Post-Profiling)
 After executing proper refactoring, there is a significant improvement in the speed of the tests being executed. After proper profiling was done, the requests became quicker to run, with shorter runtimes for the endpoints that were accessed.
-For the test plan accessing the /all-student-name endpoint, the test results displayed an average runtime of 556 ms before refactoring. After the refactoring process, the results now show an average runtime of 68 ms, an improvement by 87.8%.
-For the test plan accessing the /highest-gpa endpoint, the test results displayed an average runtime of 56 ms before refactoring. After the refactoring process, the results now show an average runtime of 35 ms, an improvement by 37.5%.
+For the test plan accessing the /all-student-name endpoint, the test results displayed an average runtime of 1252 ms before refactoring. After the refactoring process, the results now show an average runtime of 68 ms, an improvement by 94.6%.
+For the test plan accessing the /highest-gpa endpoint, the test results displayed an average runtime of 86 ms before refactoring. After the refactoring process, the results now show an average runtime of 35 ms, an improvement by 59.3%.
 
 
 ## Reflection
